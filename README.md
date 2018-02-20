@@ -3,6 +3,6 @@ A data analysis done by web scraping the New York Social Diary for its photo cap
 
 Example of a photo from the NYSD: 
 
-![alt text](https://imgur.com/a/S09zW)
+![alt text](https://i.imgur.com/eLvv7Fg.png)
 
 Link to NY Diary: http://www.newyorksocialdiary.com/
