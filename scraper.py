@@ -1,3 +1,12 @@
+'''
+
+A webscraping program done to capture the photocaptions on the NYC Social Diary website
+by Jonathan Wong
+
+Photocaptions scraped from: http://www.newyorksocialdiary.com/party-pictures
+
+'''
+
 from bs4 import BeautifulSoup
 import requests
 import re
